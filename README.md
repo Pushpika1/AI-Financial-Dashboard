@@ -4,7 +4,7 @@ This is an interactive financial dashboard visualizing key important financial i
    
 git clone https://github.com/Pushpika1/AI-Financial-Dashboard.git
 
-### **2 Navigate to the root directory**
+### **2. Navigate to the root directory**
 
 cd ..Financial Dashboard
 
@@ -34,6 +34,6 @@ cd ..frontend
 
 npm install
 
-**9. Run the frontend** 
+### **9. Run the frontend** 
 
 npm run dev
