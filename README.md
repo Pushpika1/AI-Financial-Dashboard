@@ -8,7 +8,7 @@ git clone https://github.com/Pushpika1/AI-Financial-Dashboard.git
 
 ### **2. Navigate to the root directory**
 
-cd ..Financial Dashboard
+cd ..Financial Dashboard/Backend
 
 ### **3. Create a virtual environment**
 
