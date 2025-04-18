@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/190caec5-1d1f-4c06-9192-bdc6e0c24981
    
 git clone https://github.com/Pushpika1/Financial-Dashboard.git
 
-### **2. Navigate to the root directory**
+### **2. Navigate to the backend directory**
 
 cd ..Financial Dashboard/Backend
 
