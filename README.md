@@ -1,5 +1,7 @@
 This is an interactive financial dashboard visualizing key important financial information. It has been built using Python, Flask and React.
 
+https://github.com/user-attachments/assets/190caec5-1d1f-4c06-9192-bdc6e0c24981
+
 ### **1. Clone the repository**
    
 git clone https://github.com/Pushpika1/AI-Financial-Dashboard.git
