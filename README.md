@@ -1,4 +1,4 @@
-This is an interactive financial dashboard visualizing key important financial information. It has been built using Python, Flask and React.
+This is an interactive financial dashboard visualizing key important financial information. It has been built using Python, Flask and React with the setup instructions given below.
 
 https://github.com/user-attachments/assets/190caec5-1d1f-4c06-9192-bdc6e0c24981
 
