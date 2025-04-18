@@ -30,7 +30,7 @@ python app.py
 
 ### **7. Navigate to the frontend directory** 
 
-cd ..Frontend\frontend"
+cd ..Frontend\frontend
 
 ### **8. Install dependencies** 
 
